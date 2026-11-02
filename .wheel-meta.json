@@ -1,0 +1,22 @@
+{
+  "wheel_id": 664,
+  "structure": "umbrella",
+  "slug": "theseocompanymelbourne-com-103",
+  "project": "seo-services-melbourne-what-to-expect-f49b221d0c6ff5868a12f039b",
+  "parent_t1_ref": "theseocompanymelbourne-com-151",
+  "node_role": "feeder",
+  "money_target": "theseocompanymelbourne.com.au",
+  "primary_kw": "seo services melbourne what to expect",
+  "intended_url": "https://sitesau.github.io/theseocompanymelbourne-com-103/",
+  "tier": "T2",
+  "writeback_nonce": "a19f72bdb906b2e9",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/seo-services-melbourne-pros-and-cons-4c20a0f0c2fef4f23b9244fb09/",
+      "anchor": "Seo Services Melbourne Pros and Cons: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
